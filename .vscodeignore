@@ -1,0 +1,22 @@
+.vscode/**
+.vscode-test/**
+out/**
+src/**
+.gitignore
+.yarnrc
+esbuild.js
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/eslint.config.mjs
+**/*.map
+**/*.ts
+.env
+node_modules/**
+.vscode-test.*
+*.vsix
+images/*.gif
+.git
+.github
+```
+```powershell
+npm install -g @vscode/vsce
