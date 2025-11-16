@@ -9,7 +9,6 @@ Hide sensitive environment variables when streaming or recording your screen.
 - **Persistent state** - remembers your preference across sessions
 - **Visual indicator** in status bar
 
-![Demo](images/demo.gif)
 
 ## Usage
 
